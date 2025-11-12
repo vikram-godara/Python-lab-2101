@@ -1,0 +1,4 @@
+vikram,86
+sandeep,90
+Neera sharma,60
+rahul,0
